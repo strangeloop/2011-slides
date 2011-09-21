@@ -58,7 +58,7 @@
 * Distributed Systems: The Stuff Nobody Told You - Shaneal Manek
 * DataMapper on Infinispan: Clustered NoSQL - Lance Ball
 * Building Polyglot Systems with Scalang - Cliff Moon
-* Event-Driven Programming in Clojure - Zach Tellman
+* [Event-Driven Programming in Clojure](http://github.com/strangeloop/2011-slides/raw/master/Tellman-EventDrivenProgrammingInClojure.pdf) - Zach Tellman
 * A P2P Digital Self with TeleHash - Jeremie Miller
 * [Distributed Data Analysis with Hadoop and R](http://github.com/strangeloop/2011-slides/raw/master/Seidman-DistributedDataAnalysisHadoopR.pdf) - Jonathan Seidman, Ramesh Venkataramaiah
 * Taming Android - Eric Burke
