@@ -92,7 +92,7 @@
          
 * Clojure Part 2: Building Analytics with Clojure - Aaron Bedra
 * Erlang: Production Grade - Martin Logan, Eric Merritt
-* Haskell: Functional Programming, Solid Code, Big Data - Bryan O'Sullivan
+* [Haskell: Functional Programming, Solid Code, Big Data](http://bos.github.com/strange-loop-2011/slides/slides.html) - Bryan O'Sullivan ([GH](https://github.com/bos/strange-loop-2011))
 * Cascalog - Nathan Marz
 * Intro to Django - Jacob Kaplan-Moss
 * Getting Cozy with Emacs - Phil Hagelberg
