@@ -7,9 +7,13 @@
 
 # Sessions
 
-...tbd
+## Monday 
+
+## Tuesday
 
 # Workshops
+
+## Early workshops
 
 * [Clojure Part 1: Intro to Clojure](https://github.com/strangeloop/2011-slides/blob/master/Sierra-ClojureIntro.pdf) - Stuart Sierra
 * Erlang: Language Essentials - Martin Logan, Eric Merritt
@@ -20,6 +24,8 @@
 * Git Foundations - Matthew McCullough
 * HTML 5 - Nathaniel Schutta
 
+## Late workshops
+         
 * Clojure Part 2: Building Analytics with Clojure - Aaron Bedra
 * Erlang: Production Grade - Martin Logan, Eric Merritt
 * Haskell: Functional Programming, Solid Code, Big Data - Bryan O'Sullivan
