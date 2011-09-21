@@ -6,4 +6,7 @@ and unless otherwise specified by the author, all
 rights are reserved by the author. 
 
 Enjoy!
+
 Alex Miller
+
+See [Table of Contents](https://github.com/strangeloop/2011-slides/blob/master/TOC.md)
