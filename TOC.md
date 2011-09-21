@@ -32,7 +32,7 @@
 * A Tale of Three Trees - Scott Chacon
 * Machine Learning Hack Fest  - Hilary Mason
 * CoffeeScript, the Rise of "Build Your Own JavaScript" - Jeremy Ashkenas
-* Parser Combinators: How to Parse (nearly) Anything - Nate Young
+* [Parser Combinators: How to Parse (nearly) Anything](http://github.com/strangeloop/2011-slides/raw/master/Young-ParserCombinators.pdf) - Nate Young
 * New-age Transactional Systems - Not Your Grandpa's OLTP - John Hugg
 * Vim: From Essentials to Mastery - Bill Odom
 * Bringing Riak to the Mobile Platform - Kresten Krab Thorup
