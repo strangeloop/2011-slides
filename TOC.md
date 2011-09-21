@@ -1,13 +1,16 @@
 # Keynotes 
 
 * Category Theory, Monads, and Duality in (Big) Data - Erik Meijer
-* We Really Don't Know How to Compute! - Gerald Sussman 
+* [We Really Don't Know How to Compute!](Sussman-WeDontKnowHowToCompute.pdf) - Gerald Sussman 
 * "Post-PC Computing" is not a Vision - Allen Wirfs-Brock
 * Simple Made Easy - Rich Hickey
 
 # Sessions
 
 ## Monday 
+
+* Functional Thinking - Neal Ford
+* Wrap Your SQL Head Around Riak MapReduce - Sean Cribbs
 
 ## Tuesday
 
