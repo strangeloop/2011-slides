@@ -37,7 +37,7 @@
 * Vim: From Essentials to Mastery - Bill Odom
 * Bringing Riak to the Mobile Platform - Kresten Krab Thorup
 * [The Kotlin Programming Language](http://github.com/strangeloop/2011-slides/raw/master/Breslav-Kotlin.pdf) - Andrey Breslav
-* [Distributed STM: A new programming model for the cloud](http://github.com/strangeloop/2011-slides/raw/master/Noel-DistributedSTM) - Cyprien Noel
+* [Distributed STM: A new programming model for the cloud](http://github.com/strangeloop/2011-slides/raw/master/Noel-DistributedSTM.pdf) - Cyprien Noel
 * Getting Truth Out of the DOM - Yehuda Katz
 * [Monads Made Easy](http://github.com/strangeloop/2011-slides/raw/master/Duey-MonadsEasy.pdf) - Jim Duey
 * Bitcoin: Giving Money an Upgrade - Eric Brigham
