@@ -9,10 +9,71 @@
 
 ## Monday 
 
-* Functional Thinking - Neal Ford
+* On Distributed Failures (and handling them with Doozer) - Blake Mizerany
 * Wrap Your SQL Head Around Riak MapReduce - Sean Cribbs
+* Testing, Testing, iOS - Heath Borders
+* CSS3 and Sass - Mark Volkmann
+* Functional Thinking - Neal Ford
+* Ratpack: Classy and Compact Groovy Web Apps - James Williams
+* Glu-ing The Last Mile - Ken Sipe
+* Storm: Twitter's scalable realtime computation system - Nathan Marz
+* Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak
+* Concurrent Caching at Google - Benjamin Manes, Charles Fry
+* An Introduction to Doctor Who (and Neo4j) - Ian Robinson
+* Building Applications with jQuery UI - Scott González
+* JVM dynamic languages interoperability framework - Attila Szegedi
+* fog or: How I Learned to Stop Worrying and Love Cloud - Wesley Beary
+* Scalaz: Purely Functional Programming in Scala - Runar Bjarnason
+* Dynamo is not just for datastores - Susan Potter
+* Airplane-Mode HTML5: Is your website mobile-ready? - Scott Davis
+* Chloe and the Realtime Web - Trotter Cashion
+* Generic Programming Galore using D - Andrei Alexandrescu
+* Skynet: A Scalable, Distributed Service Mesh in Go - Brian Ketelsen
+* A Tale of Three Trees - Scott Chacon
+* Machine Learning Hack Fest  - Hilary Mason
+* CoffeeScript, the Rise of "Build Your Own JavaScript" - Jeremy Ashkenas
+* Parser Combinators: How to Parse (nearly) Anything - Nate Young
+* New-age Transactional Systems - Not Your Grandpa's OLTP - John Hugg
+* Vim: From Essentials to Mastery - Bill Odom
+* Bringing Riak to the Mobile Platform - Kresten Krab Thorup
+* The Kotlin Programming Language - Andrey Breslav
+* Distributed STM: A new programming model for the cloud - Cyprien Noel
+* Getting Truth Out of the DOM - Yehuda Katz
+* Monads Made Easy - Jim Duey
+* Bitcoin: Giving Money an Upgrade - Eric Brigham
+* Learn to Play Go - Rich Hickey and Jeff Brown
+* Transactions without Transactions - Richard Kreuter
+* Distributed Systems with Gevent and ZeroMQ - Jeff Lindsay
+* Mirah for Android Development - Brendan Ribera
+* Actor Interaction Patterns - Dale Schumacher
 
 ## Tuesday
+
+* Embedding Ruby and RubyGems Over RedBridge - Yoko Harada
+* Hadoop and Cassandra sitting in a tree... - Jake Luciani
+* Android App Assimilation - Logan Johnson
+* Running a startup on Haskell - Bryan O'Sullivan
+* Heresies and Dogmas in Software Development  - Dean Wampler
+* Core HTML5 Canvas: Mind-blowing Apps in Your Browser - David Geary
+* Distributed Systems: The Stuff Nobody Told You - Shaneal Manek
+* DataMapper on Infinispan: Clustered NoSQL - Lance Ball
+* Building Polyglot Systems with Scalang - Cliff Moon
+* Event-Driven Programming in Clojure - Zach Tellman
+* A P2P Digital Self with TeleHash - Jeremie Miller
+* Distributed Data Analysis with Hadoop and R - Jonathan Seidman, Ramesh Venkataramaiah
+* Taming Android - Eric Burke
+* The Once And Future Script Loader - Kyle Simpson
+* STM: Silver bullet or ...  - Peter Veentjer
+* Teaching Code Literacy - Sarah Allen
+* A Tale of Two Runtimes - Matthew Taylor
+* Why CouchDB? - Benjamin Young
+* Running Heroku on Heroku - Noah Zoschke
+* Applying Principles of Stage Magic to User Experience - Danno Ferrin
+* Have Your Cake and Eat It Too: Meta-Programming Java - Howard Lewis Ship
+* Product Engineering - Mike Lee
+* Akka: Reloaded - Josh Suereth
+* The Future of F#: Type Providers - Joe Pamer
+* The Mapping Dilemma - David Nolen
 
 # Workshops
 
