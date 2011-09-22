@@ -51,7 +51,7 @@
 
 * Embedding Ruby and RubyGems Over RedBridge - Yoko Harada
 * Hadoop and Cassandra sitting in a tree... - Jake Luciani
-* Android App Assimilation - Logan Johnson
+* [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson
 * Running a startup on Haskell - Bryan O'Sullivan
 * Heresies and Dogmas in Software Development  - Dean Wampler
 * Core HTML5 Canvas: Mind-blowing Apps in Your Browser - David Geary
