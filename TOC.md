@@ -62,7 +62,7 @@
 * A P2P Digital Self with TeleHash - Jeremie Miller
 * [Distributed Data Analysis with Hadoop and R](http://github.com/strangeloop/2011-slides/raw/master/Seidman-DistributedDataAnalysisHadoopR.pdf) - Jonathan Seidman, Ramesh Venkataramaiah
 * Taming Android - Eric Burke
-* [The Once And Future Script Loader](http://www.slideshare.net/shadedecho/the-once-and-future-script-loader-v3) - Kyle Simpson @[http://twitter.com/getify](getify)
+* [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify)
 * STM: Silver bullet or ...  - Peter Veentjer
 * Teaching Code Literacy - Sarah Allen
 * A Tale of Two Runtimes - Matthew Taylor
