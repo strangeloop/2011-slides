@@ -10,16 +10,16 @@
 ## Monday 
 
 * On Distributed Failures (and handling them with Doozer) - Blake Mizerany
-* Wrap Your SQL Head Around Riak MapReduce - Sean Cribbs
+* [Wrap Your SQL Head Around Riak MapReduce](http://strangeloop-riak-mapred.heroku.com/) - Sean Cribbs
 * [Testing, Testing, iOS](https://github.com/strangeloop/2011-slides/raw/master/Borders-TestingiOS.pdf) - Heath Borders
 * [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann
-* Functional Thinking - Neal Ford
-* Ratpack: Classy and Compact Groovy Web Apps - James Williams
-* Glu-ing The Last Mile - Ken Sipe
+* [Functional Thinking](http://github.com/strangeloop/2011-slides/raw/master/Ford-FunctionalThinking.pdf) - Neal Ford
+* [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams
+* [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
 * [Storm: Twitter's scalable realtime computation system](https://github.com/strangeloop/2011-slides/raw/master/Marz-Storm.pdf) - Nathan Marz
 * [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak
 * [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Benjamin Manes, Charles Fry
-* An Introduction to Doctor Who (and Neo4j) - Ian Robinson
+* [An Introduction to Doctor Who (and Neo4j)](http://github.com/strangeloop/2011-slides/raw/master/Robinson-IntroDoctorWhoNeo4j.pdf) - Ian Robinson
 * Building Applications with jQuery UI - Scott González
 * JVM dynamic languages interoperability framework - Attila Szegedi
 * fog or: How I Learned to Stop Worrying and Love Cloud - Wesley Beary
@@ -80,7 +80,7 @@
 ## Early workshops
 
 * [Clojure Part 1: Intro to Clojure](https://github.com/strangeloop/2011-slides/raw/master/Sierra-ClojureIntro.pdf) - Stuart Sierra
-* Erlang: Language Essentials - Martin Logan, Eric Merritt
+* Erlang: Language Essentials - Martin Logan
 * Machine Learning - Hilary Mason
 * Node.js Bootcamp - James Carr
 * Learn Scala Interactively with the Scala Koans - Dianne Marsh, Joel Neely, Daniel Hinojosa
@@ -91,7 +91,7 @@
 ## Late workshops
          
 * Clojure Part 2: Building Analytics with Clojure - Aaron Bedra
-* Erlang: Production Grade - Martin Logan, Eric Merritt
+* Erlang: Production Grade - Eric Merritt [GitHub](https://github.com/ericbmerritt/strangeloop-behaviours-and-applications)
 * [Haskell: Functional Programming, Solid Code, Big Data](http://bos.github.com/strange-loop-2011/slides/slides.html) - Bryan O'Sullivan ([GitHub](https://github.com/bos/strange-loop-2011))
 * Cascalog - Nathan Marz
 * Intro to Django - Jacob Kaplan-Moss
