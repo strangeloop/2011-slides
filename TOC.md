@@ -1,6 +1,6 @@
 # Keynotes
 
-* Category Theory, Monads, and Duality in (Big) Data - Erik Meijer
+* [Category Theory, Monads, and Duality in (Big) Data](http://queue.acm.org/detail.cfm?id=1961297) - Erik Meijer
 * [We Really Don't Know How to Compute!](https://github.com/strangeloop/2011-slides/raw/master/Sussman-WeDontKnowHowToCompute.pdf) - Gerald Sussman
 * "Post-PC Computing" is not a Vision - Allen Wirfs-Brock
 * Simple Made Easy - Rich Hickey
