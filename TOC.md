@@ -49,7 +49,7 @@
 
 ## Tuesday
 
-* Embedding Ruby and RubyGems Over RedBridge - Yoko Harada
+* [Embedding Ruby and RubyGems Over RedBridge](http://redbridge-at-strangeloop2011.herokuapp.com/slideshow) - Yoko Harada
 * [Hadoop and Cassandra sitting in a tree...](https://github.com/strangeloop/2011-slides/raw/master/Luciani-HadoopCassandra.pdf) - Jake Luciani
 * [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson
 * [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan
