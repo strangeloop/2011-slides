@@ -86,7 +86,7 @@
 * Learn Scala Interactively with the Scala Koans - Dianne Marsh, Joel Neely, Daniel Hinojosa
 * Intermediate Android - Michael Galpin
 * Git Foundations - Matthew McCullough
-* HTML 5 - Nathaniel Schutta
+* [HTML 5](https://github.com/ntschutta/html5_workshop) - Nathaniel Schutta
 
 ## Late workshops
 
