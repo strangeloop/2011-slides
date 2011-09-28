@@ -2,7 +2,7 @@
 
 * [Category Theory, Monads, and Duality in (Big) Data](http://queue.acm.org/detail.cfm?id=1961297) - Erik Meijer
 * [We Really Don't Know How to Compute!](https://github.com/strangeloop/2011-slides/raw/master/Sussman-WeDontKnowHowToCompute.pdf) - Gerald Sussman
-* "Post-PC Computing" is not a Vision - Allen Wirfs-Brock
+* ["Post-PC Computing" is not a Vision](https://github.com/strangeloop/2011-slides/raw/master/WirfsBrock-PostPC.pdf) - Allen Wirfs-Brock
 * Simple Made Easy - Rich Hickey  *[slides will be made available only with video release]*
 
 # Sessions
@@ -54,7 +54,7 @@
 * [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson
 * [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan
 * [Heresies and Dogmas in Software Development](https://github.com/strangeloop/2011-slides/raw/master/Wampler-HeresiesDogmasSoftwareDev.pdf)  - Dean Wampler
-* Core HTML5 Canvas: Mind-blowing Apps in Your Browser - David Geary
+* Core HTML5 Canvas: Mind-blowing Apps in Your Browser - David Geary  *[talk was all in HTML 5, no slides available]*
 * Distributed Systems: The Stuff Nobody Told You - Shaneal Manek
 * [DataMapper on Infinispan: Clustered NoSQL](https://github.com/strangeloop/2011-slides/raw/master/Ball-DataMapperInfinispan.pdf) - Lance Ball
 * [Building Polyglot Systems with Scalang](https://github.com/strangeloop/2011-slides/raw/master/Moon-Scalang.pdf) - Cliff Moon
@@ -69,7 +69,7 @@
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke
 * [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
-* Have Your Cake and Eat It Too: Meta-Programming Java - Howard Lewis Ship
+* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) - Howard Lewis Ship
 * [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) - Mike Lee
 * [Akka: Reloaded](http://github.com/strangeloop/2011-slides/raw/master/Suereth-AkkaReloaded.pdf) - Josh Suereth
 * The Future of F#: Type Providers - Joe Pamer
