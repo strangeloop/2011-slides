@@ -3,7 +3,7 @@
 * [Category Theory, Monads, and Duality in (Big) Data](http://queue.acm.org/detail.cfm?id=1961297) - Erik Meijer
 * [We Really Don't Know How to Compute!](https://github.com/strangeloop/2011-slides/raw/master/Sussman-WeDontKnowHowToCompute.pdf) - Gerald Sussman
 * "Post-PC Computing" is not a Vision - Allen Wirfs-Brock
-* Simple Made Easy - Rich Hickey
+* Simple Made Easy - Rich Hickey  *[slides will be made available only with video release]*
 
 # Sessions
 
@@ -30,7 +30,7 @@
 * [Generic Programming Galore using D](http://github.com/strangeloop/2011-slides/raw/master/Alexandrescu-GenericProgrammingD.pdf) - Andrei Alexandrescu
 * [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen
 * [A Tale of Three Trees](https://github.com/strangeloop/2011-slides/raw/master/Chacon-ThreeTrees.pdf) - Scott Chacon
-* Machine Learning Hack Fest  - Hilary Mason
+* Machine Learning Hack Fest  - Hilary Mason  *[no slides]*
 * CoffeeScript, the Rise of "Build Your Own JavaScript" - Jeremy Ashkenas
 * [Parser Combinators: How to Parse (nearly) Anything](http://github.com/strangeloop/2011-slides/raw/master/Young-ParserCombinators.pdf) - Nate Young
 * [New-age Transactional Systems - Not Your Grandpa's OLTP](https://github.com/strangeloop/2011-slides/raw/master/Hugg-NewAgeTransactionalSystems.pdf) - John Hugg
@@ -41,11 +41,11 @@
 * Getting Truth Out of the DOM - Yehuda Katz
 * [Monads Made Easy](http://github.com/strangeloop/2011-slides/raw/master/Duey-MonadsEasy.pdf) - Jim Duey
 * Bitcoin: Giving Money an Upgrade - Eric Brigham
-* Learn to Play Go - Rich Hickey and Jeff Brown
+* Learn to Play Go - Rich Hickey and Jeff Brown  *[no slides]*
 * [Transactions without Transactions](https://github.com/strangeloop/2011-slides/raw/master/Kreuter-TransactionsWithoutTransactions.pdf) - Richard Kreuter
 * [Distributed Systems with Gevent and ZeroMQ](https://github.com/strangeloop/2011-slides/raw/master/Lindsay-DistributedGeventZmq.pdf) - Jeff Lindsay
 * [Mirah for Android Development](http://github.com/strangeloop/2011-slides/raw/master/Ribera-MirahAndroidDevelopment.pdf) - Brendan Ribera
-* Actor Interaction Patterns - Dale Schumacher
+* Actor Interaction Patterns - Dale Schumacher  *[talk had no slides]*
 
 ## Tuesday
 
