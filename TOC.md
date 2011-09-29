@@ -31,7 +31,7 @@
 * [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen
 * [A Tale of Three Trees](https://github.com/strangeloop/2011-slides/raw/master/Chacon-ThreeTrees.pdf) - Scott Chacon
 * Machine Learning Hack Fest  - Hilary Mason  *[no slides]*
-* CoffeeScript, the Rise of "Build Your Own JavaScript" - Jeremy Ashkenas
+* [CoffeeScript, the Rise of "Build Your Own JavaScript"](http://github.com/strangeloop/2011-slides/raw/master/Ashkenas-CoffeeScript.pdf) - Jeremy Ashkenas
 * [Parser Combinators: How to Parse (nearly) Anything](http://github.com/strangeloop/2011-slides/raw/master/Young-ParserCombinators.pdf) - Nate Young
 * [New-age Transactional Systems - Not Your Grandpa's OLTP](https://github.com/strangeloop/2011-slides/raw/master/Hugg-NewAgeTransactionalSystems.pdf) - John Hugg
 * [Vim: From Essentials to Mastery](https://github.com/strangeloop/2011-slides/raw/master/Odom-Vim.pdf) - Bill Odom
