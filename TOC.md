@@ -65,12 +65,12 @@
 * [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify)
 * STM: Silver bullet or ...  - Peter Veentjer
 * [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen
-* [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) - Matthew Taylor [small version](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)
+* [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) - Matthew Taylor [[small version](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)]
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke
 * [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
-* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) - Howard Lewis Ship [small version](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)
-* [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) - Mike Lee [small version](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)
+* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) - Howard Lewis Ship [[small version](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)]
+* [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) - Mike Lee [[small version](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)]
 * [Akka: Reloaded](http://github.com/strangeloop/2011-slides/raw/master/Suereth-AkkaReloaded.pdf) - Josh Suereth
 * The Future of F#: Type Providers - Joe Pamer
 * [The Mapping Dilemma](https://github.com/strangeloop/2011-slides/raw/master/Nolen-MappingDilemma.pdf) - David Nolen
