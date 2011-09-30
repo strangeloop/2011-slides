@@ -55,7 +55,7 @@
 * [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan
 * [Heresies and Dogmas in Software Development](https://github.com/strangeloop/2011-slides/raw/master/Wampler-HeresiesDogmasSoftwareDev.pdf)  - Dean Wampler
 * Core HTML5 Canvas: Mind-blowing Apps in Your Browser - David Geary  *[talk was all in HTML 5, no slides available]*
-* Distributed Systems: The Stuff Nobody Told You - Shaneal Manek
+* [Distributed Systems: The Stuff Nobody Told You](http://github.com/strangeloop/2011-slides/raw/master/Manek-DistSystemsWhatNobodyToldYou.pdf) - Shaneal Manek
 * [DataMapper on Infinispan: Clustered NoSQL](https://github.com/strangeloop/2011-slides/raw/master/Ball-DataMapperInfinispan.pdf) - Lance Ball
 * [Building Polyglot Systems with Scalang](https://github.com/strangeloop/2011-slides/raw/master/Moon-Scalang.pdf) - Cliff Moon
 * [Event-Driven Programming in Clojure](http://github.com/strangeloop/2011-slides/raw/master/Tellman-EventDrivenProgrammingInClojure.pdf) - Zach Tellman
