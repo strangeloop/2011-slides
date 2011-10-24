@@ -10,7 +10,6 @@ Links to video will be added as they are [released](http://thestrangeloop.com/ne
 Enjoy!
 Alex Miller
 
-See [Table of Contents](https://github.com/strangeloop/2011-slides/blob/master/TOC.md)
 # Keynotes
 
 * [Category Theory, Monads, and Duality in (Big) Data](http://queue.acm.org/detail.cfm?id=1961297) - Erik Meijer
