@@ -3,7 +3,7 @@
 * [Category Theory, Monads, and Duality in (Big) Data](http://queue.acm.org/detail.cfm?id=1961297) - Erik Meijer
 * [We Really Don't Know How to Compute!](https://github.com/strangeloop/2011-slides/raw/master/Sussman-WeDontKnowHowToCompute.pdf) - Gerald Sussman
 * ["Post-PC Computing" is not a Vision](https://github.com/strangeloop/2011-slides/raw/master/WirfsBrock-PostPC.pdf) - Allen Wirfs-Brock
-* Simple Made Easy - Rich Hickey  *[slides will be made available only with video release]*
+* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) - Rich Hickey
 
 # Sessions
 
