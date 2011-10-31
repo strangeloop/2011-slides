@@ -64,7 +64,7 @@ Alex Miller
 * [Embedding Ruby and RubyGems Over RedBridge](http://redbridge-at-strangeloop2011.herokuapp.com/slideshow) - Yoko Harada
 * [Hadoop and Cassandra sitting in a tree...](https://github.com/strangeloop/2011-slides/raw/master/Luciani-HadoopCassandra.pdf) - Jake Luciani
 * [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson
-* [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan
+* [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan ([video](http://www.infoq.com/presentations/Running-a-Startup-on-Haskell))
 * [Heresies and Dogmas in Software Development](https://github.com/strangeloop/2011-slides/raw/master/Wampler-HeresiesDogmasSoftwareDev.pdf)  - Dean Wampler
 * [Core HTML5 Canvas: Mind-blowing Apps in Your Browser](http://corehtml5canvas.com/strangeloop-2011/index.html) - David Geary  
 * [Distributed Systems: The Stuff Nobody Told You](http://github.com/strangeloop/2011-slides/raw/master/Manek-DistSystemsWhatNobodyToldYou.pdf) - Shaneal Manek
@@ -76,7 +76,7 @@ Alex Miller
 * [Taming Android](https://github.com/strangeloop/2011-slides/raw/master/Burke-TamingAndroid.pdf) - Eric Burke
 * [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify)
 * STM: Silver bullet or ...  - Peter Veentjer
-* [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen
+* [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen ([video](http://www.infoq.com/presentations/Easy-as-Pie-Teaching-Code-Literacy))
 * [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) - Matthew Taylor [[small version](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)]
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke
