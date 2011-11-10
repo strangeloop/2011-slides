@@ -81,8 +81,8 @@ Alex Miller
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke
 * [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
-* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) - Howard Lewis Ship [[small version](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)]
-* [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) - Mike Lee [[small version](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)] ([video](http://www.infoq.com/presentations/Product-Engineering))
+* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) - Howard Lewis Ship [[lowres](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)]
+* [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) - Mike Lee [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)] ([video](http://www.infoq.com/presentations/Product-Engineering))
 * [Akka: Reloaded](http://github.com/strangeloop/2011-slides/raw/master/Suereth-AkkaReloaded.pdf) - Josh Suereth
 * [The Future of F#: Type Providers](http://github.com/strangeloop/2011-slides/raw/master/Pamer-FutureOfFSharp.pdf) - Joe Pamer
 * [The Mapping Dilemma](https://github.com/strangeloop/2011-slides/raw/master/Nolen-MappingDilemma.pdf) - David Nolen
