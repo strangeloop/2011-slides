@@ -17,6 +17,9 @@ Alex Miller
 * ["Post-PC Computing" is not a Vision](https://github.com/strangeloop/2011-slides/raw/master/WirfsBrock-PostPC.pdf) - Allen Wirfs-Brock
 * Simple Made Easy - Rich Hickey ([video](http://www.infoq.com/presentations/Simple-Made-Easy))
 
+# Panel
+
+* Languages Panel - Sussman, Hickey, Wirfs-Brock, Andrescu, Pamer, Ashkenas, Wampler ([video](http://www.infoq.com/presentations/Language-Panel))
 # Sessions
 
 ## Monday
