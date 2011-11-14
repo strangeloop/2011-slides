@@ -20,6 +20,7 @@ Alex Miller
 # Panel
 
 * Languages Panel - Sussman, Hickey, Wirfs-Brock, Andrescu, Pamer, Ashkenas, Wampler ([video](http://www.infoq.com/presentations/Language-Panel))
+                  - 
 # Sessions
 
 ## Monday
