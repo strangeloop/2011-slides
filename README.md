@@ -52,7 +52,7 @@ Alex Miller
 * [New-age Transactional Systems - Not Your Grandpa's OLTP](https://github.com/strangeloop/2011-slides/raw/master/Hugg-NewAgeTransactionalSystems.pdf) - John Hugg
 * [Vim: From Essentials to Mastery](https://github.com/strangeloop/2011-slides/raw/master/Odom-Vim.pdf) - Bill Odom
 * [Bringing Riak to the Mobile Platform](http://github.com/strangeloop/2011-slides/raw/master/KrestenThorup-RiakMobile.pdf) - Kresten Krab Thorup
-* [The Kotlin Programming Language](http://github.com/strangeloop/2011-slides/raw/master/Breslav-Kotlin.pdf) - Andrey Breslav
+* [The Kotlin Programming Language](http://github.com/strangeloop/2011-slides/raw/master/Breslav-Kotlin.pdf) - Andrey Breslav ([video](http://www.infoq.com/presentations/The-Kotlin-Programming-Language))
 * [Distributed STM: A new programming model for the cloud](http://github.com/strangeloop/2011-slides/raw/master/Noel-DistributedSTM.pdf) - Cyprien Noel
 * Getting Truth Out of the DOM - Yehuda Katz
 * [Monads Made Easy](http://github.com/strangeloop/2011-slides/raw/master/Duey-MonadsEasy.pdf) - Jim Duey
