@@ -20,7 +20,7 @@ Alex Miller
 # Panel
 
 * Languages Panel - Sussman, Hickey, Wirfs-Brock, Andrescu, Pamer, Ashkenas, Wampler ([video](http://www.infoq.com/presentations/Language-Panel))
-                  - 
+                  
 # Sessions
 
 ## Monday
@@ -33,7 +33,7 @@ Alex Miller
 * [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams
 * [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
 * [Storm: Twitter's scalable realtime computation system](https://github.com/strangeloop/2011-slides/raw/master/Marz-Storm.pdf) - Nathan Marz ([video](http://infoq.com/presentations/Storm))
-* [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak
+* [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak ([video](http://www.infoq.com/presentations/Functional-Data-Structures-in-Scala))
 * [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Benjamin Manes, Charles Fry
 * [An Introduction to Doctor Who (and Neo4j)](http://github.com/strangeloop/2011-slides/raw/master/Robinson-IntroDoctorWhoNeo4j.pdf) - Ian Robinson
 * [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González
@@ -46,18 +46,18 @@ Alex Miller
 * [Generic Programming Galore using D](http://github.com/strangeloop/2011-slides/raw/master/Alexandrescu-GenericProgrammingD.pdf) - Andrei Alexandrescu
 * [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen
 * [A Tale of Three Trees](https://github.com/strangeloop/2011-slides/raw/master/Chacon-ThreeTrees.pdf) - Scott Chacon ([video](http://www.infoq.com/presentations/A-Tale-of-Three-Trees))
-* Machine Learning Hack Fest  - Hilary Mason  *[no slides]* 
+* Machine Learning Hack Fest  - Hilary Mason  *[no slides, no video]* 
 * [CoffeeScript, the Rise of "Build Your Own JavaScript"](http://github.com/strangeloop/2011-slides/raw/master/Ashkenas-CoffeeScript.pdf) - Jeremy Ashkenas
 * [Parser Combinators: How to Parse (nearly) Anything](http://github.com/strangeloop/2011-slides/raw/master/Young-ParserCombinators.pdf) - Nate Young
 * [New-age Transactional Systems - Not Your Grandpa's OLTP](https://github.com/strangeloop/2011-slides/raw/master/Hugg-NewAgeTransactionalSystems.pdf) - John Hugg
 * [Vim: From Essentials to Mastery](https://github.com/strangeloop/2011-slides/raw/master/Odom-Vim.pdf) - Bill Odom
-* [Bringing Riak to the Mobile Platform](http://github.com/strangeloop/2011-slides/raw/master/KrestenThorup-RiakMobile.pdf) - Kresten Krab Thorup
+* [Bringing Riak to the Mobile Platform](http://github.com/strangeloop/2011-slides/raw/master/KrestenThorup-RiakMobile.pdf) - Kresten Krab Thorup ([video](http://www.infoq.com/presentations/Bringing-Riak-to-the-Mobile-Platform))
 * [The Kotlin Programming Language](http://github.com/strangeloop/2011-slides/raw/master/Breslav-Kotlin.pdf) - Andrey Breslav ([video](http://www.infoq.com/presentations/The-Kotlin-Programming-Language))
 * [Distributed STM: A new programming model for the cloud](http://github.com/strangeloop/2011-slides/raw/master/Noel-DistributedSTM.pdf) - Cyprien Noel ([video](http://www.infoq.com/presentations/Distributed-STM))
 * Getting Truth Out of the DOM - Yehuda Katz
 * [Monads Made Easy](http://github.com/strangeloop/2011-slides/raw/master/Duey-MonadsEasy.pdf) - Jim Duey
 * Bitcoin: Giving Money an Upgrade - Eric Brigham
-* Learn to Play Go - Rich Hickey and Jeff Brown  *[no slides]*
+* Learn to Play Go - Rich Hickey and Jeff Brown  *[no slides, no video]*
 * [Transactions without Transactions](https://github.com/strangeloop/2011-slides/raw/master/Kreuter-TransactionsWithoutTransactions.pdf) - Richard Kreuter
 * [Distributed Systems with Gevent and ZeroMQ](https://github.com/strangeloop/2011-slides/raw/master/Lindsay-DistributedGeventZmq.pdf) - Jeff Lindsay
 * [Mirah for Android Development](http://github.com/strangeloop/2011-slides/raw/master/Ribera-MirahAndroidDevelopment.pdf) - Brendan Ribera
@@ -69,10 +69,10 @@ Alex Miller
 * [Hadoop and Cassandra sitting in a tree...](https://github.com/strangeloop/2011-slides/raw/master/Luciani-HadoopCassandra.pdf) - Jake Luciani
 * [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson
 * [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan ([video](http://www.infoq.com/presentations/Running-a-Startup-on-Haskell))
-* [Heresies and Dogmas in Software Development](https://github.com/strangeloop/2011-slides/raw/master/Wampler-HeresiesDogmasSoftwareDev.pdf)  - Dean Wampler
+* [Heresies and Dogmas in Software Development](https://github.com/strangeloop/2011-slides/raw/master/Wampler-HeresiesDogmasSoftwareDev.pdf)  - Dean Wampler ([video](http://www.infoq.com/presentations/Heresies-and-Dogmas-in-Software-Development))
 * [Core HTML5 Canvas: Mind-blowing Apps in Your Browser](http://corehtml5canvas.com/strangeloop-2011/index.html) - David Geary ([video](http://www.infoq.com/presentations/Core-HTML5-Canvas))
-* [Distributed Systems: The Stuff Nobody Told You](http://github.com/strangeloop/2011-slides/raw/master/Manek-DistSystemsWhatNobodyToldYou.pdf) - Shaneal Manek
-* [DataMapper on Infinispan: Clustered NoSQL](https://github.com/strangeloop/2011-slides/raw/master/Ball-DataMapperInfinispan.pdf) - Lance Ball
+* [Distributed Systems: The Stuff Nobody Told You](http://github.com/strangeloop/2011-slides/raw/master/Manek-DistSystemsWhatNobodyToldYou.pdf) - Shaneal Manek ([video](http://www.infoq.com/presentations/Distributed-Systems-What-Nobody-Told-You))
+* [DataMapper on Infinispan: Clustered NoSQL](https://github.com/strangeloop/2011-slides/raw/master/Ball-DataMapperInfinispan.pdf) - Lance Ball ([video](http://www.infoq.com/presentations/DataMapper-on-Infinispan-Clustered-NoSQL))
 * [Building Polyglot Systems with Scalang](https://github.com/strangeloop/2011-slides/raw/master/Moon-Scalang.pdf) - Cliff Moon
 * [Event-Driven Programming in Clojure](http://github.com/strangeloop/2011-slides/raw/master/Tellman-EventDrivenProgrammingInClojure.pdf) - Zach Tellman
 * A P2P Digital Self with TeleHash - Jeremie Miller
