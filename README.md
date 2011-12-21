@@ -37,7 +37,7 @@ Alex Miller
 * [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Benjamin Manes, Charles Fry
 * [An Introduction to Doctor Who (and Neo4j)](http://github.com/strangeloop/2011-slides/raw/master/Robinson-IntroDoctorWhoNeo4j.pdf) - Ian Robinson
 * [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González
-* [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/The-Mapping-Dilemma))
+* [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/Dynalink))
 * [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary
 * [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason
 * [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter
