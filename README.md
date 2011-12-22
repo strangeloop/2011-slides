@@ -60,7 +60,7 @@ Alex Miller
 * Learn to Play Go - Rich Hickey and Jeff Brown  *[no slides, no video]*
 * [Transactions without Transactions](https://github.com/strangeloop/2011-slides/raw/master/Kreuter-TransactionsWithoutTransactions.pdf) - Richard Kreuter
 * [Distributed Systems with Gevent and ZeroMQ](https://github.com/strangeloop/2011-slides/raw/master/Lindsay-DistributedGeventZmq.pdf) - Jeff Lindsay
-* [Mirah for Android Development](http://github.com/strangeloop/2011-slides/raw/master/Ribera-MirahAndroidDevelopment.pdf) - Brendan Ribera
+* [Mirah for Android Development](http://github.com/strangeloop/2011-slides/raw/master/Ribera-MirahAndroidDevelopment.pdf) - Brendan Ribera ([video](http://www.infoq.com/presentations/Mirah-for-Android-Development))
 * Actor Interaction Patterns - Dale Schumacher  *[talk had no slides]*
 
 ## Tuesday
