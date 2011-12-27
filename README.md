@@ -25,7 +25,7 @@ Alex Miller
 
 ## Monday
 
-* [On Distributed Failures (and handling them with Doozer)](https://github.com/strangeloop/2011-slides/raw/master/Mizerany-OnDistFailures.pdf) - Blake Mizerany
+* [On Distributed Failures (and handling them with Doozer)](https://github.com/strangeloop/2011-slides/raw/master/Mizerany-OnDistFailures.pdf) - Blake Mizerany ([video](http://www.infoq.com/presentations/On-Distributed-Failures))
 * [Wrap Your SQL Head Around Riak MapReduce](http://strangeloop-riak-mapred.heroku.com/) - Sean Cribbs
 * [Testing, Testing, iOS](https://github.com/strangeloop/2011-slides/raw/master/Borders-TestingiOS.pdf) - Heath Borders
 * [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann
