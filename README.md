@@ -34,7 +34,7 @@ Alex Miller
 * [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
 * [Storm: Twitter's scalable realtime computation system](https://github.com/strangeloop/2011-slides/raw/master/Marz-Storm.pdf) - Nathan Marz ([video](http://infoq.com/presentations/Storm))
 * [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak ([video](http://www.infoq.com/presentations/Functional-Data-Structures-in-Scala))
-* [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Benjamin Manes, Charles Fry
+* [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Charles Fry ([video](http://www.infoq.com/presentations/Concurrent-Caching-at-Google))
 * [An Introduction to Doctor Who (and Neo4j)](http://github.com/strangeloop/2011-slides/raw/master/Robinson-IntroDoctorWhoNeo4j.pdf) - Ian Robinson
 * [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González
 * [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/Dynalink))
