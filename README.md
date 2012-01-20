@@ -29,7 +29,7 @@ Alex Miller
 * [Wrap Your SQL Head Around Riak MapReduce](http://strangeloop-riak-mapred.heroku.com/) - Sean Cribbs
 * [Testing, Testing, iOS](https://github.com/strangeloop/2011-slides/raw/master/Borders-TestingiOS.pdf) - Heath Borders
 * [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann
-* [Functional Thinking](http://github.com/strangeloop/2011-slides/raw/master/Ford-FunctionalThinking.pdf) - Neal Ford
+* [Functional Thinking](http://github.com/strangeloop/2011-slides/raw/master/Ford-FunctionalThinking.pdf) - Neal Ford ([video](http://www.infoq.com/presentations/Functional-Thinking))
 * [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams
 * [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
 * [Storm: Twitter's scalable realtime computation system](https://github.com/strangeloop/2011-slides/raw/master/Marz-Storm.pdf) - Nathan Marz ([video](http://infoq.com/presentations/Storm))
@@ -38,7 +38,7 @@ Alex Miller
 * [An Introduction to Doctor Who (and Neo4j)](http://github.com/strangeloop/2011-slides/raw/master/Robinson-IntroDoctorWhoNeo4j.pdf) - Ian Robinson
 * [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González
 * [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/Dynalink))
-* [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary
+* [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary ([video](http://www.infoq.com/presentations/fog))
 * [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason
 * [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter
 * [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) - Scott Davis [[small version](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)]
