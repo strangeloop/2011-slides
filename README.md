@@ -41,8 +41,8 @@ Alex Miller
 * [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary ([video](http://www.infoq.com/presentations/fog))
 * [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason
 * [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter
-* [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) - Scott Davis [[small version](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)]
-* [Chloe and the Realtime Web](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe.pdf) - Trotter Cashion [[small version](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe-small.pdf)]
+* [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)] - Scott Davis
+* [Chloe and the Realtime Web](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe-small.pdf)] - Trotter Cashion 
 * [Generic Programming Galore using D](http://github.com/strangeloop/2011-slides/raw/master/Alexandrescu-GenericProgrammingD.pdf) - Andrei Alexandrescu
 * [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen
 * [A Tale of Three Trees](https://github.com/strangeloop/2011-slides/raw/master/Chacon-ThreeTrees.pdf) - Scott Chacon ([video](http://www.infoq.com/presentations/A-Tale-of-Three-Trees))
@@ -81,12 +81,12 @@ Alex Miller
 * [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify)
 * STM: Silver bullet or ...  - Peter Veentjer
 * [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen ([video](http://www.infoq.com/presentations/Easy-as-Pie-Teaching-Code-Literacy))
-* [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) - Matthew Taylor [[small version](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)]
+* [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)] - Matthew Taylor
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke
 * [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
-* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) - Howard Lewis Ship ([lowres](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf))
-* [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) - Mike Lee ([lowres](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)) ([video](http://www.infoq.com/presentations/Product-Engineering))
+* [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)] - Howard Lewis Ship 
+* [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)] - Mike Lee ([video](http://www.infoq.com/presentations/Product-Engineering))
 * [Akka: Reloaded](http://github.com/strangeloop/2011-slides/raw/master/Suereth-AkkaReloaded.pdf) - Josh Suereth
 * [The Future of F#: Type Providers](http://github.com/strangeloop/2011-slides/raw/master/Pamer-FutureOfFSharp.pdf) - Joe Pamer
 * [The Mapping Dilemma](https://github.com/strangeloop/2011-slides/raw/master/Nolen-MappingDilemma.pdf) - David Nolen ([video](http://www.infoq.com/presentations/The-Mapping-Dilemma))
