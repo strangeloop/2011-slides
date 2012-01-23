@@ -48,7 +48,7 @@ Alex Miller
 * [A Tale of Three Trees](https://github.com/strangeloop/2011-slides/raw/master/Chacon-ThreeTrees.pdf) - Scott Chacon ([video](http://www.infoq.com/presentations/A-Tale-of-Three-Trees))
 * Machine Learning Hack Fest  - Hilary Mason  *[no slides, no video]* 
 * [CoffeeScript, the Rise of "Build Your Own JavaScript"](http://github.com/strangeloop/2011-slides/raw/master/Ashkenas-CoffeeScript.pdf) - Jeremy Ashkenas
-* [Parser Combinators: How to Parse (nearly) Anything](http://github.com/strangeloop/2011-slides/raw/master/Young-ParserCombinators.pdf) - Nate Young
+* [Parser Combinators: How to Parse (nearly) Anything](http://github.com/strangeloop/2011-slides/raw/master/Young-ParserCombinators.pdf) - Nate Young ([video](http://www.infoq.com/presentations/Parser-Combinators))
 * [New-age Transactional Systems - Not Your Grandpa's OLTP](https://github.com/strangeloop/2011-slides/raw/master/Hugg-NewAgeTransactionalSystems.pdf) - John Hugg
 * [Vim: From Essentials to Mastery](https://github.com/strangeloop/2011-slides/raw/master/Odom-Vim.pdf) - Bill Odom
 * [Bringing Riak to the Mobile Platform](http://github.com/strangeloop/2011-slides/raw/master/KrestenThorup-RiakMobile.pdf) - Kresten Krab Thorup ([video](http://www.infoq.com/presentations/Bringing-Riak-to-the-Mobile-Platform))
