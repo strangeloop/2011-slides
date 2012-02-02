@@ -41,7 +41,7 @@ Alex Miller
 * [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary ([video](http://www.infoq.com/presentations/fog))
 * [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason
 * [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter
-* [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)] - Scott Davis
+* [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)] - Scott Davis ([video](http://www.infoq.com/presentations/Mobile-HTML5))
 * [Chloe and the Realtime Web](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe-small.pdf)] - Trotter Cashion 
 * [Generic Programming Galore using D](http://github.com/strangeloop/2011-slides/raw/master/Alexandrescu-GenericProgrammingD.pdf) - Andrei Alexandrescu
 * [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen
