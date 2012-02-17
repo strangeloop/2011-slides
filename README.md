@@ -83,7 +83,7 @@ Alex Miller
 * [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen ([video](http://www.infoq.com/presentations/Easy-as-Pie-Teaching-Code-Literacy))
 * [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)] - Matthew Taylor
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
-* [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke
+* [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke ([video](http://www.infoq.com/presentations/Running-Heroku-on-Heroku))
 * [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
 * [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)] - Howard Lewis Ship ([video](http://www.infoq.com/presentations/Meta-Programming-Techniques-for-Java))
 * [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)] - Mike Lee ([video](http://www.infoq.com/presentations/Product-Engineering))
