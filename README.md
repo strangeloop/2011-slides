@@ -39,7 +39,7 @@ Alex Miller
 * [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González
 * [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/Dynalink))
 * [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary ([video](http://www.infoq.com/presentations/fog))
-* [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason
+* [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason ([video](http://www.infoq.com/presentations/Scalaz-Functional-Programming-in-Scala))
 * [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter
 * [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)] - Scott Davis ([video](http://www.infoq.com/presentations/Mobile-HTML5))
 * [Chloe and the Realtime Web](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe-small.pdf)] - Trotter Cashion 
@@ -61,7 +61,7 @@ Alex Miller
 * [Transactions without Transactions](https://github.com/strangeloop/2011-slides/raw/master/Kreuter-TransactionsWithoutTransactions.pdf) - Richard Kreuter ([video](http://www.infoq.com/presentations/Transactions-without-Transactions))
 * [Distributed Systems with Gevent and ZeroMQ](https://github.com/strangeloop/2011-slides/raw/master/Lindsay-DistributedGeventZmq.pdf) - Jeff Lindsay
 * [Mirah for Android Development](http://github.com/strangeloop/2011-slides/raw/master/Ribera-MirahAndroidDevelopment.pdf) - Brendan Ribera ([video](http://www.infoq.com/presentations/Mirah-for-Android-Development))
-* Actor Interaction Patterns - Dale Schumacher  *[talk had no slides]*
+* Actor Interaction Patterns - Dale Schumacher  *[talk had no slides]* ([video](http://www.infoq.com/presentations/Actor-Interaction-Patterns))
 
 ## Tuesday
 
