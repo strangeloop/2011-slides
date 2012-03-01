@@ -88,7 +88,7 @@ Alex Miller
 * [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)] - Howard Lewis Ship ([video](http://www.infoq.com/presentations/Meta-Programming-Techniques-for-Java))
 * [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)] - Mike Lee ([video](http://www.infoq.com/presentations/Product-Engineering))
 * [Akka: Reloaded](http://github.com/strangeloop/2011-slides/raw/master/Suereth-AkkaReloaded.pdf) - Josh Suereth
-* [The Future of F#: Type Providers](http://github.com/strangeloop/2011-slides/raw/master/Pamer-FutureOfFSharp.pdf) - Joe Pamer
+* [The Future of F#: Type Providers](http://github.com/strangeloop/2011-slides/raw/master/Pamer-FutureOfFSharp.pdf) - Joe Pamer ([video](http://www.infoq.com/presentations/The-Future-of-FSharp-Type-Providers))
 * [The Mapping Dilemma](https://github.com/strangeloop/2011-slides/raw/master/Nolen-MappingDilemma.pdf) - David Nolen ([video](http://www.infoq.com/presentations/The-Mapping-Dilemma))
 
 # Workshops
