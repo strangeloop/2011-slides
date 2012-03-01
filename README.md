@@ -54,7 +54,7 @@ Alex Miller
 * [Bringing Riak to the Mobile Platform](http://github.com/strangeloop/2011-slides/raw/master/KrestenThorup-RiakMobile.pdf) - Kresten Krab Thorup ([video](http://www.infoq.com/presentations/Bringing-Riak-to-the-Mobile-Platform))
 * [The Kotlin Programming Language](http://github.com/strangeloop/2011-slides/raw/master/Breslav-Kotlin.pdf) - Andrey Breslav ([video](http://www.infoq.com/presentations/The-Kotlin-Programming-Language))
 * [Distributed STM: A new programming model for the cloud](http://github.com/strangeloop/2011-slides/raw/master/Noel-DistributedSTM.pdf) - Cyprien Noel ([video](http://www.infoq.com/presentations/Distributed-STM))
-* Getting Truth Out of the DOM - Yehuda Katz
+* Getting Truth Out of the DOM - Yehuda Katz ([video](http://www.infoq.com/presentations/Getting-Truth-Out-of-the-DOM))
 * [Monads Made Easy](http://github.com/strangeloop/2011-slides/raw/master/Duey-MonadsEasy.pdf) - Jim Duey
 * Bitcoin: Giving Money an Upgrade - Eric Brigham
 * Learn to Play Go - Rich Hickey and Jeff Brown  *[no slides, no video]*
@@ -81,7 +81,7 @@ Alex Miller
 * [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify)
 * STM: Silver bullet or ...  - Peter Veentjer
 * [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen ([video](http://www.infoq.com/presentations/Easy-as-Pie-Teaching-Code-Literacy))
-* [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)] - Matthew Taylor
+* [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)] - Matthew Taylor ([video](http://www.infoq.com/presentations/Mojito-A-Tale-of-Two-Runtimes))
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke ([video](http://www.infoq.com/presentations/Running-Heroku-on-Heroku))
 * [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
