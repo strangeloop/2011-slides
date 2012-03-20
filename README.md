@@ -30,7 +30,7 @@ Alex Miller
 * [Testing, Testing, iOS](https://github.com/strangeloop/2011-slides/raw/master/Borders-TestingiOS.pdf) - Heath Borders
 * [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann
 * [Functional Thinking](http://github.com/strangeloop/2011-slides/raw/master/Ford-FunctionalThinking.pdf) - Neal Ford ([video](http://www.infoq.com/presentations/Functional-Thinking))
-* [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams
+* [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams ([video](http://www.infoq.com/presentations/Ratpack))
 * [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
 * [Storm: Twitter's scalable realtime computation system](https://github.com/strangeloop/2011-slides/raw/master/Marz-Storm.pdf) - Nathan Marz ([video](http://infoq.com/presentations/Storm))
 * [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak ([video](http://www.infoq.com/presentations/Functional-Data-Structures-in-Scala))
