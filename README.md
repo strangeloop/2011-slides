@@ -28,7 +28,7 @@ Alex Miller
 * [On Distributed Failures (and handling them with Doozer)](https://github.com/strangeloop/2011-slides/raw/master/Mizerany-OnDistFailures.pdf) - Blake Mizerany ([video](http://www.infoq.com/presentations/On-Distributed-Failures))
 * [Wrap Your SQL Head Around Riak MapReduce](http://strangeloop-riak-mapred.heroku.com/) - Sean Cribbs ([video](http://www.infoq.com/presentations/Wrap-Your-SQL-Head-Around-Riak-MapReduce))
 * [Testing, Testing, iOS](https://github.com/strangeloop/2011-slides/raw/master/Borders-TestingiOS.pdf) - Heath Borders ([video](http://www.infoq.com/presentations/Testing-Testing-iOS))
-* [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann
+* [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann ([video](http://www.infoq.com/presentations/CSS3-and-Sass))
 * [Functional Thinking](http://github.com/strangeloop/2011-slides/raw/master/Ford-FunctionalThinking.pdf) - Neal Ford ([video](http://www.infoq.com/presentations/Functional-Thinking))
 * [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams ([video](http://www.infoq.com/presentations/Ratpack))
 * [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
@@ -36,7 +36,7 @@ Alex Miller
 * [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak ([video](http://www.infoq.com/presentations/Functional-Data-Structures-in-Scala))
 * [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Charles Fry ([video](http://www.infoq.com/presentations/Concurrent-Caching-at-Google))
 * [An Introduction to Doctor Who (and Neo4j)](http://github.com/strangeloop/2011-slides/raw/master/Robinson-IntroDoctorWhoNeo4j.pdf) - Ian Robinson ([video](http://www.infoq.com/presentations/An-Introduction-to-Doctor-Who-and-Neo4j))
-* [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González
+* [Building Applications with jQuery UI](https://github.com/strangeloop/2011-slides/raw/master/Gonzalez-BuildingApplicationjQuery%20UI.pdf) - Scott González ([video](http://www.infoq.com/presentations/Building-Applications-with-jQuery-UI))
 * [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/Dynalink))
 * [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary ([video](http://www.infoq.com/presentations/fog))
 * [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason ([video](http://www.infoq.com/presentations/Scalaz-Functional-Programming-in-Scala))
@@ -78,13 +78,13 @@ Alex Miller
 * A P2P Digital Self with TeleHash - Jeremie Miller ([video](http://www.infoq.com/presentations/A-P2P-Digital-Self-with-TeleHash))
 * [Distributed Data Analysis with Hadoop and R](http://github.com/strangeloop/2011-slides/raw/master/Seidman-DistributedDataAnalysisHadoopR.pdf) - Jonathan Seidman, Ramesh Venkataramaiah
 * [Taming Android](https://github.com/strangeloop/2011-slides/raw/master/Burke-TamingAndroid.pdf) - Eric Burke ([video](http://www.infoq.com/presentations/Taming-Android))
-* [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify)
+* [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify) ([video](http://www.infoq.com/presentations/The-Once-And-Future-Script-Loader))
 * STM: Silver bullet or ...  - Peter Veentjer
 * [Teaching Code Literacy](https://github.com/strangeloop/2011-slides/raw/master/Allen-TeachingCodeLiteracy.pdf) - Sarah Allen ([video](http://www.infoq.com/presentations/Easy-as-Pie-Teaching-Code-Literacy))
 * [A Tale of Two Runtimes](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Taylor-Tale2Runtimes-small.pdf)] - Matthew Taylor ([video](http://www.infoq.com/presentations/Mojito-A-Tale-of-Two-Runtimes))
 * [Why CouchDB?](https://github.com/strangeloop/2011-slides/raw/master/Young-WhyCouchDB.pdf) - Benjamin Young ([video](http://www.infoq.com/presentations/Why-CouchDB))
 * [Running Heroku on Heroku](http://stloop.heroku.com) - Noah Zoschke ([video](http://www.infoq.com/presentations/Running-Heroku-on-Heroku))
-* [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin
+* [Applying Principles of Stage Magic to User Experience](https://github.com/strangeloop/2011-slides/raw/master/Ferrin-StageMagic.pdf) - Danno Ferrin ([video](http://www.infoq.com/presentations/Applying-the-Principles-of-Stage-Magic-to-the-User-Experience))
 * [Have Your Cake and Eat It Too: Meta-Programming Java](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/LewisShip-MetaprogrammingJava-small.pdf)] - Howard Lewis Ship ([video](http://www.infoq.com/presentations/Meta-Programming-Techniques-for-Java))
 * [Product Engineering](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Lee-ProductEngineering-small.pdf)] - Mike Lee ([video](http://www.infoq.com/presentations/Product-Engineering))
 * [Akka: Reloaded](http://github.com/strangeloop/2011-slides/raw/master/Suereth-AkkaReloaded.pdf) - Josh Suereth ([video](http://www.infoq.com/presentations/Akka-Reloaded))
