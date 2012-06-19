@@ -40,7 +40,7 @@ Alex Miller
 * [JVM dynamic languages interoperability framework](https://github.com/strangeloop/2011-slides/raw/master/Szegedi-Dynalink.pdf) - Attila Szegedi ([video](http://www.infoq.com/presentations/Dynalink))
 * [fog or: How I Learned to Stop Worrying and Love Cloud](https://github.com/strangeloop/2011-slides/raw/master/Beary-fog.pdf) - Wesley Beary ([video](http://www.infoq.com/presentations/fog))
 * [Scalaz: Purely Functional Programming in Scala](https://github.com/strangeloop/2011-slides/raw/master/Bjarnason-Scalaz.pdf) - Runar Bjarnason ([video](http://www.infoq.com/presentations/Scalaz-Functional-Programming-in-Scala))
-* [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter
+* [Dynamo is not just for datastores](https://github.com/strangeloop/2011-slides/raw/master/Potter-DyamnoRiakCore.pdf) - Susan Potter ([video](http://www.infoq.com/presentations/Dynamo-Is-Not-Just-for-Datastores))
 * [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)] - Scott Davis ([video](http://www.infoq.com/presentations/Mobile-HTML5))
 * [Chloe and the Realtime Web](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe-small.pdf)] - Trotter Cashion ([video](http://www.infoq.com/presentations/Chloe-and-the-Real-Time-Web))
 * [Generic Programming Galore using D](http://github.com/strangeloop/2011-slides/raw/master/Alexandrescu-GenericProgrammingD.pdf) - Andrei Alexandrescu ([video](http://www.infoq.com/presentations/Generic-Programming-Galore-Using-D))
@@ -59,24 +59,24 @@ Alex Miller
 * Bitcoin: Giving Money an Upgrade - Eric Brigham
 * Learn to Play Go - Rich Hickey and Jeff Brown  *[no slides, no video]*
 * [Transactions without Transactions](https://github.com/strangeloop/2011-slides/raw/master/Kreuter-TransactionsWithoutTransactions.pdf) - Richard Kreuter ([video](http://www.infoq.com/presentations/Transactions-without-Transactions))
-* [Distributed Systems with Gevent and ZeroMQ](https://github.com/strangeloop/2011-slides/raw/master/Lindsay-DistributedGeventZmq.pdf) - Jeff Lindsay
+* [Distributed Systems with Gevent and ZeroMQ](https://github.com/strangeloop/2011-slides/raw/master/Lindsay-DistributedGeventZmq.pdf) - Jeff Lindsay ([video](http://www.infoq.com/presentations/Distributed-Systems-with-ZeroMQ-and-gevent))
 * [Mirah for Android Development](http://github.com/strangeloop/2011-slides/raw/master/Ribera-MirahAndroidDevelopment.pdf) - Brendan Ribera ([video](http://www.infoq.com/presentations/Mirah-for-Android-Development))
 * Actor Interaction Patterns - Dale Schumacher  *[talk had no slides]* ([video](http://www.infoq.com/presentations/Actor-Interaction-Patterns))
 
 ## Tuesday
 
 * [Embedding Ruby and RubyGems Over RedBridge](http://redbridge-at-strangeloop2011.herokuapp.com/slideshow) - Yoko Harada ([video](http://www.infoq.com/presentations/Embedding-Ruby-and-RubyGems-Over-RedBridge))
-* [Hadoop and Cassandra sitting in a tree...](https://github.com/strangeloop/2011-slides/raw/master/Luciani-HadoopCassandra.pdf) - Jake Luciani 
-* [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson
+* [Hadoop and Cassandra sitting in a tree...](https://github.com/strangeloop/2011-slides/raw/master/Luciani-HadoopCassandra.pdf) - Jake Luciani ([video](http://www.infoq.com/presentations/Hadoop-and-Cassandra-Sitting-in-a-Tree))
+* [Android App Assimilation](http://github.com/strangeloop/2011-slides/raw/master/Johnson-AndroidAppAssimilation.pdf) - Logan Johnson ([video](http://www.infoq.com/presentations/Android-App-Assimilation))
 * [Running a startup on Haskell](http://bos.github.com/strange-loop-2011/talk/talk.html) - Bryan O'Sullivan ([video](http://www.infoq.com/presentations/Running-a-Startup-on-Haskell))
 * [Heresies and Dogmas in Software Development](https://github.com/strangeloop/2011-slides/raw/master/Wampler-HeresiesDogmasSoftwareDev.pdf)  - Dean Wampler ([video](http://www.infoq.com/presentations/Heresies-and-Dogmas-in-Software-Development))
 * [Core HTML5 Canvas: Mind-blowing Apps in Your Browser](http://corehtml5canvas.com/strangeloop-2011/index.html) - David Geary ([video](http://www.infoq.com/presentations/Core-HTML5-Canvas))
 * [Distributed Systems: The Stuff Nobody Told You](http://github.com/strangeloop/2011-slides/raw/master/Manek-DistSystemsWhatNobodyToldYou.pdf) - Shaneal Manek ([video](http://www.infoq.com/presentations/Distributed-Systems-What-Nobody-Told-You))
 * [DataMapper on Infinispan: Clustered NoSQL](https://github.com/strangeloop/2011-slides/raw/master/Ball-DataMapperInfinispan.pdf) - Lance Ball ([video](http://www.infoq.com/presentations/DataMapper-on-Infinispan-Clustered-NoSQL))
-* [Building Polyglot Systems with Scalang](https://github.com/strangeloop/2011-slides/raw/master/Moon-Scalang.pdf) - Cliff Moon
+* [Building Polyglot Systems with Scalang](https://github.com/strangeloop/2011-slides/raw/master/Moon-Scalang.pdf) - Cliff Moon ([video](http://www.infoq.com/presentations/Building-Polyglot-Systems-with-Scalang))
 * [Event-Driven Programming in Clojure](http://github.com/strangeloop/2011-slides/raw/master/Tellman-EventDrivenProgrammingInClojure.pdf) - Zach Tellman ([video](http://www.infoq.com/presentations/Event-Driven-Programming-in-Clojure))
 * A P2P Digital Self with TeleHash - Jeremie Miller ([video](http://www.infoq.com/presentations/A-P2P-Digital-Self-with-TeleHash))
-* [Distributed Data Analysis with Hadoop and R](http://github.com/strangeloop/2011-slides/raw/master/Seidman-DistributedDataAnalysisHadoopR.pdf) - Jonathan Seidman, Ramesh Venkataramaiah
+* [Distributed Data Analysis with Hadoop and R](http://github.com/strangeloop/2011-slides/raw/master/Seidman-DistributedDataAnalysisHadoopR.pdf) - Jonathan Seidman, Ramesh Venkataramaiah ([video](http://www.infoq.com/presentations/Distributed-Data-Analysis-with-Hadoop-and-R))
 * [Taming Android](https://github.com/strangeloop/2011-slides/raw/master/Burke-TamingAndroid.pdf) - Eric Burke ([video](http://www.infoq.com/presentations/Taming-Android))
 * [The Once And Future Script Loader](http://github.com/strangeloop/2011-slides/raw/master/Simpson-Scriptloaders.pdf) - Kyle Simpson @[getify](http://twitter.com/getify) ([video](http://www.infoq.com/presentations/The-Once-And-Future-Script-Loader))
 * STM: Silver bullet or ...  - Peter Veentjer
