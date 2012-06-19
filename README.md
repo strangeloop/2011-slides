@@ -31,7 +31,7 @@ Alex Miller
 * [CSS3 and Sass](http://github.com/strangeloop/2011-slides/raw/master/Volkmann-CSS3andSass.pdf) - Mark Volkmann ([video](http://www.infoq.com/presentations/CSS3-and-Sass))
 * [Functional Thinking](http://github.com/strangeloop/2011-slides/raw/master/Ford-FunctionalThinking.pdf) - Neal Ford ([video](http://www.infoq.com/presentations/Functional-Thinking))
 * [Ratpack: Classy and Compact Groovy Web Apps](http://github.com/strangeloop/2011-slides/raw/master/Williams-RatpackClassyCompactGroovy.pdf) - James Williams ([video](http://www.infoq.com/presentations/Ratpack))
-* [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe
+* [Glu-ing The Last Mile](http://github.com/strangeloop/2011-slides/raw/master/Sipe-Glu.pdf) - Ken Sipe ([video](http://www.infoq.com/presentations/Glu-ing-The-Last-Mile))
 * [Storm: Twitter's scalable realtime computation system](https://github.com/strangeloop/2011-slides/raw/master/Marz-Storm.pdf) - Nathan Marz ([video](http://infoq.com/presentations/Storm))
 * [Extreme Cleverness: Functional Data Structures in Scala](http://github.com/strangeloop/2011-slides/raw/master/Spiewak-FunctionalData.pdf) - Daniel Spiewak ([video](http://www.infoq.com/presentations/Functional-Data-Structures-in-Scala))
 * [Concurrent Caching at Google](http://github.com/strangeloop/2011-slides/raw/master/ManesFry-ConcurrentCachingAtGoogle.pdf) - Charles Fry ([video](http://www.infoq.com/presentations/Concurrent-Caching-at-Google))
@@ -44,7 +44,7 @@ Alex Miller
 * [Airplane-Mode HTML5: Is your website mobile-ready?](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Davis-MobileHTML5-small.pdf)] - Scott Davis ([video](http://www.infoq.com/presentations/Mobile-HTML5))
 * [Chloe and the Realtime Web](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe.pdf) [[lowres](https://github.com/strangeloop/2011-slides/raw/master/Cashion-Chloe-small.pdf)] - Trotter Cashion ([video](http://www.infoq.com/presentations/Chloe-and-the-Real-Time-Web))
 * [Generic Programming Galore using D](http://github.com/strangeloop/2011-slides/raw/master/Alexandrescu-GenericProgrammingD.pdf) - Andrei Alexandrescu ([video](http://www.infoq.com/presentations/Generic-Programming-Galore-Using-D))
-* [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen
+* [Skynet: A Scalable, Distributed Service Mesh in Go](https://github.com/strangeloop/2011-slides/raw/master/Ketelsen-Skynet.pdf) - Brian Ketelsen ([video](http://www.infoq.com/presentations/Skynet-A-Scalable-Distributed-Service-Mesh-in-Go))
 * [A Tale of Three Trees](https://github.com/strangeloop/2011-slides/raw/master/Chacon-ThreeTrees.pdf) - Scott Chacon ([video](http://www.infoq.com/presentations/A-Tale-of-Three-Trees))
 * Machine Learning Hack Fest  - Hilary Mason  *[no slides, no video]* 
 * [CoffeeScript, the Rise of "Build Your Own JavaScript"](http://github.com/strangeloop/2011-slides/raw/master/Ashkenas-CoffeeScript.pdf) - Jeremy Ashkenas ([video](http://www.infoq.com/presentations/CoffeeScript))
